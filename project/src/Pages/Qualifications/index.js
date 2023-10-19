@@ -12,7 +12,7 @@ export default function Qualifications() {
     <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper', p: 3}}>
       <h1 className='mode'>Qualifications</h1>
       <ListItem alignItems="flex-start">
-        <ListItemAvatar>
+        <ListItemAvatar> 
           <Avatar alt="Sree Chaitanya" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLq3bWGKgwuPOhgXP1I6F7v8-W4Ts3PAeZFmAVXBXlQ&s" />
         </ListItemAvatar>
         <ListItemText
